@@ -2,7 +2,7 @@
 
 Mi nombre es MigueL Muzo.
 
-Here are some ideas to get you started:
+Me gusta la programacion
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
