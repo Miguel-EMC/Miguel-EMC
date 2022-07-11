@@ -3,11 +3,11 @@
 I'm Miguel Muzo</h1>
 <h3 align="center">A passionate full stack developer from Ecuador :small_airplane:</h3>
 <p align="center">
-<a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardomuzo123456@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-56D029?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-<a  href="https://www.linkedin.com/in/eduardo-muzo-6379b2234/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a  href="https://www.instagram.com/e.miguel.11/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-D02929?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a  href="https://www.youtube.com/channel/UCjrlDmdZ_ZmVEd6t_DzkMUw/featured"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a  href="https://twitter.com/eduardo_muzo"  target="_blank"><img src="https://img.shields.io/badge/Twitter-D02929?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardomuzo123456@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-29D074?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a  href="https://www.linkedin.com/in/eduardo-muzo-6379b2234/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-29D074?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a  href="https://www.instagram.com/e.miguel.11/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-29D074?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a  href="https://www.youtube.com/channel/UCjrlDmdZ_ZmVEd6t_DzkMUw/featured"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-29D074?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a  href="https://twitter.com/eduardo_muzo"  target="_blank"><img src="https://img.shields.io/badge/Twitter-29D074?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 - 🔭 I’m currently working on **my roadmap developer 2021**
