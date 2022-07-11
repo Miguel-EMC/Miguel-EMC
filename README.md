@@ -2,9 +2,9 @@
 <br/>
 I'm Miguel Muzo</h1>
 <h3 align="center">A passionate full stack developer from Ecuador :small_airplane:</h3>
-<p align="center">
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardomuzo123456@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-29D074?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a  href="https://www.linkedin.com/in/eduardo-muzo-6379b2234/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-29D074?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a  href="https://www.instagram.com/e.miguel.11/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-29D074?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -12,6 +12,7 @@ I'm Miguel Muzo</h1>
 <a  href="https://twitter.com/eduardo_muzo"  target="_blank"><img src="https://img.shields.io/badge/Twitter-29D074?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
+<h3 align="left">About me: </h3>
 - 🔭 I’m currently working on **my roadmap developer 2021**
 
 - 👯 I’m looking to collaborate on **...**
