@@ -10,7 +10,9 @@ I'm Miguel Muzo</h1>
 <a  href="https://www.instagram.com/e.miguel.11/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a  href="https://www.youtube.com/channel/UCjrlDmdZ_ZmVEd6t_DzkMUw/featured"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a  href="https://twitter.com/eduardo_muzo"  target="_blank"><img src="https://img.shields.io/badge/Twitter-1C98E5?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-emc&layout=compact" alt="miguel-emc" />
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-emc&show_icons=true&theme=radical" alt="miguel-emc" />
 </p>
 
