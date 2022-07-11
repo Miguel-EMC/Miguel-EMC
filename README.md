@@ -46,4 +46,6 @@ I'm Miguel Muzo</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickepnf18&show_icons=true&locale=en&layout=compact" alt="erickepnf18" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-emc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
