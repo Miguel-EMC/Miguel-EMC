@@ -13,6 +13,7 @@ I'm Miguel Muzo</h1>
  <p>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-emc&layout=compact" alt="miguel-emc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-emc&show_icons=true&theme=radical" alt="miguel-emc" />
 </p>
 
 <h3 align="left">About me: </h3>
