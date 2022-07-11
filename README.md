@@ -46,6 +46,6 @@ I'm Miguel Muzo</h1>
 </a> 
 </p>
 
-<p align="center">
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-emc&layout=compact" alt="miguel-emc" />
 </p>
