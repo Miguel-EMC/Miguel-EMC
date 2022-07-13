@@ -13,12 +13,13 @@ I'm Miguel Muzo</h1>
 </p>
 
 <h3 align="left">About me: </h3>
-- 🔭 I’m currently working on **my roadmap developer 2021**
+- 🔭 I'm a junior full stack developer, fond of technology.
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I'm a very friendly guy and I like to work in a team.
 
-- 💬 Ask me about **react**
+- :evergreen_tree: I like to go for walks and in my free time I self-educate.
 
+- :dog: I like animals
 
 <h3 align="left">Programming languages: </h3>
 
