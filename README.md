@@ -14,8 +14,11 @@ I'm Miguel Muzo</h1>
 
 <h3 align="left">About me: </h3>
 - 🔭 I'm a junior full stack developer, fond of technology.
+
 - 👯 I'm a very friendly guy and I like to work in a team.
+
 - :evergreen_tree: I like to go for walks and in my free time I self-educate.
+
 - :dog: I like animals
 
 <h3 align="left">Programming languages: </h3>
