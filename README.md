@@ -47,9 +47,8 @@ I'm Miguel Muzo</h1>
 
 <h3 align="left">Programming Languages and Technologies I want to learn: </h3>
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="code" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="code" width="40" height="40"/> </a>
-</a>   <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="code" width="40" height="40"/> </a>
-</a> 
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="code" width="40" height="40"/> </a>
+</a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="code" width="40" height="40"/> </a> </a> 
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-emc&layout=compact" alt="miguel-emc" />
