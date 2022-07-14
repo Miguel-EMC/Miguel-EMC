@@ -47,8 +47,9 @@ I'm Miguel Muzo</h1>
 
 <h3 align="left">Programming Languages and Technologies I want to learn: </h3>
 <p align="left">
-<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="code" width="40" height="40"/> </a>
-</a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="code" width="40" height="40"/> </a> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="code" width="40" height="40"/> </a>
+</a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="code" width="40" height="40"/> </a>
+
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-emc&layout=compact" alt="miguel-emc" />
