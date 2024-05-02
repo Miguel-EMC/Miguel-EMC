@@ -45,15 +45,22 @@ I'm Miguel Muzo</h1>
 
 <h3 align="left">Enviroment, IDEs and Tools: </h3>
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="code" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="code" width="40" height="40"/> </a>
-</a>   <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="code" width="40" height="40"/> </a>
-</a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="code" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Programming Languages and Technologies I want to learn: </h3>
 <p align="left">
-<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="code" width="40" height="40"/> </a>
-</a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="code" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="code" width="40" height="40"/> </a>
 </p>
