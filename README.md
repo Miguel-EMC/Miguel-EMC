@@ -69,10 +69,3 @@ Currently, I am:
 - 🗣️ **Global Communication:** Mastering technical English (B2 -> C1 path).
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueldev11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Miguel's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
