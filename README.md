@@ -31,41 +31,48 @@ Currently, I am:
 
 ### ⚙️ Core Tech Stack
 
-#### 🐍 Languages & Core
+#### 🐍 Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45"/>
 </p>
 
-#### ⚡ AI & Backend Frameworks
+#### ⚡ Frameworks (Backend & Frontend)
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/LangChain-AI%20Framework-blue?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-8A2BE2?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/AWS-Bedrock-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/LangChain-AI-blue?style=for-the-badge" alt="LangChain"/>
 </p>
 
-#### 🧮 Databases & DevOps
+#### 🧮 Databases & Infrastructure
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45"/>
 </p>
 
 ---
 
 ### 🌱 2026 Roadmap & Exploration
-- 🧩 **Advanced Agentic Workflows:** Deep diving into multi-agent collaboration with LangGraph.
-- 🔒 **Network Security:** Preparing for the Network Defense Essentials (NDE) exam.
-- 🗣️ **English Mastery:** Polishing professional English for global technical environments.
-- 📡 **IoT & Robotics:** Exploring C++/Arduino for hardware-AI integration (as a hobby).
+- 🧩 **Advanced Agentic Workflows:** Multi-agent collaboration with LangGraph.
+- 🔒 **Security First:** Getting the Network Defense Essentials (NDE) certification.
+- ☕ **Enterprise Java:** Deepening Spring Boot for high-scale backends.
+- 🗣️ **Global Communication:** Mastering technical English (B2 -> C1 path).
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migueldev11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Miguel's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
