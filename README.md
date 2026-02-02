@@ -8,11 +8,11 @@
   <a href="https://www.linkedin.com/in/eduardo-miguel-muzo-6379b2234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Muzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/eduardo_muzo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-eduardo__muzo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <a href="https://www.tiktok.com/@migueldev11" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-migueldev11-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://www.instagram.com/e.miguel.11/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e.miguel.11-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.youtube.com/@migueldev11" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-migueldev11-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
@@ -20,28 +20,26 @@
 
 ### 🧠 About Me
 
-I'm a **Backend Engineer** passionate about building **AI-integrated systems** that mix logic, data and intelligent behavior.  
-I focus on **agent orchestration**, **semantic memory**, and **contextual data pipelines** using tools such as:
+I'm a **Backend Engineer** focused on bridging the gap between robust software architecture and Artificial Intelligence. I specialize in building autonomous agents and scalable data pipelines that don't just process information—they *reason* through it.
 
-- 🧩 **LangChain & LangGraph** for multi-agent workflows  
-- ☁️ **AWS Bedrock** for embeddings and retrieval-augmented tasks  
-- ⚙️ **FastAPI, PostgreSQL & Docker** for clean-scalable backends  
-
-I believe software should not just run — it should *reason*.
+Currently, I am:
+- 🚀 Building **Sinapsek**, focusing on intelligent system integration.
+- 🛠️ Implementing **Agent Orchestration** and **RAG** architectures.
+- 🛡️ Strengthening my expertise in cybersecurity (currently preparing for **NDE Certification**).
 
 ---
 
 ### ⚙️ Core Tech Stack
 
-#### 🐍 Languages  
+#### 🐍 Languages & Core
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45"/>
 </p>
 
-#### ⚡ Backend / AI Frameworks  
+#### ⚡ AI & Backend Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LangChain-AI%20Framework-blue?style=for-the-badge" alt="LangChain"/>
@@ -49,35 +47,25 @@ I believe software should not just run — it should *reason*.
   <img src="https://img.shields.io/badge/AWS-Bedrock-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock"/>
 </p>
 
-#### 🧮 Databases  
+#### 🧮 Databases & DevOps
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45"/>
-</p>
-
-#### 🧰 Tools & Platforms  
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45"/>
 </p>
 
-#### 🌐 Frontend & Mobile  
+---
+
+### 🌱 2026 Roadmap & Exploration
+- 🧩 **Advanced Agentic Workflows:** Deep diving into multi-agent collaboration with LangGraph.
+- 🔒 **Network Security:** Preparing for the Network Defense Essentials (NDE) exam.
+- 🗣️ **English Mastery:** Polishing professional English for global technical environments.
+- 📡 **IoT & Robotics:** Exploring C++/Arduino for hardware-AI integration (as a hobby).
+
+---
+
+### 📊 Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-### 🌱 Currently Exploring
-- 🧩 Agent orchestration with LangGraph  
-- 🧠 Hybrid retrieval + semantic memory systems  
-- ⚙️ Clean architecture for backend + AI pipelines  
-- ☁️ Cloud-native AI deployment on AWS
-
----
