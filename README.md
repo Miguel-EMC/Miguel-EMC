@@ -17,30 +17,30 @@
 
 ### 🧠 Sobre mí
 
-[cite_start]Soy un **Ingeniero de Software** enfocado en el desarrollo de arquitecturas Backend y la integración de soluciones de Inteligencia Artificial[cite: 7]. [cite_start]Mi trabajo consiste en construir servicios escalables y conectar la lógica de servidor con aplicaciones web y móviles de alto rendimiento[cite: 9].
+Soy un **Ingeniero de Software** enfocado en el desarrollo de arquitecturas Backend y la integración de soluciones de Inteligencia Artificial. Mi trabajo consiste en construir servicios escalables y conectar la lógica de servidor con aplicaciones web y móviles de alto rendimiento.
 
-- [cite_start]🛠️ **Experiencia Actual:** Lidero el desarrollo de agentes de IA (Text-to-SQL) utilizando **LangGraph** y **AWS Bedrock**[cite: 14].
-- [cite_start]🚀 **Mobile & Web:** Arquitecto y desarrollador de aplicaciones móviles con **Flutter** (iOS/Android) y plataformas web en **Angular**[cite: 15, 17].
-- [cite_start]☁️ **Infraestructura:** Experiencia en backend serverless con **AWS Lambdas** y despliegue con **Terraform**[cite: 16, 18].
-- [cite_start]🛡️ **Seguridad:** Actualmente preparándome para la certificación **Network Defense Essentials (NDE)**[cite: 45].
+- 🛠️ **Experiencia Actual:** Lidero el desarrollo de agentes de IA (Text-to-SQL) utilizando **LangGraph** y **AWS Bedrock**.
+- 🚀 **Mobile & Web:** Arquitecto y desarrollador de aplicaciones móviles con **Flutter** (iOS/Android) y plataformas web en **Angular**.
+- ☁️ **Infraestructura:** Experiencia en backend serverless con **AWS Lambdas** y despliegue con **Terraform**.
+- 🛡️ **Seguridad:** Actualmente preparándome para la certificación **Network Defense Essentials (NDE)**.
 
 ---
 
 ### ⚙️ Stack Tecnológico
 
 #### Backend & IA
-- [cite_start]**Lenguajes:** Python (FastAPI, Django), Node.js (NestJS), PHP (Laravel), TypeScript[cite: 32].
-- [cite_start]**IA:** Integración de LLMs, SQL Agents, RAG y LangGraph[cite: 8, 33].
-- [cite_start]**Bases de Datos:** PostgreSQL, MySQL, SQL Server y Prisma ORM[cite: 24, 35].
+- **Lenguajes:** Python (FastAPI, Django), Node.js (NestJS), PHP (Laravel), TypeScript.
+- **IA:** Integración de LLMs, SQL Agents, RAG y LangGraph.
+- **Bases de Datos:** PostgreSQL, SQL Server, MySQL y Prisma ORM.
 
 #### Cloud & DevOps
-- [cite_start]**Cloud:** AWS (Lambdas, S3, CloudWatch) y Google Cloud[cite: 34].
-- [cite_start]**Herramientas:** Terraform, Docker, CI/CD y Linux[cite: 18, 34].
+- **Cloud:** AWS (Lambdas, S3, CloudWatch) y Google Cloud.
+- **Herramientas:** Terraform, Docker, CI/CD y Linux.
 
 ---
 
 ### 📈 Metas para 2026
-- [cite_start]🎓 Certificarme en **Network Defense Essentials (NDE)** por EC-Council[cite: 45].
+- 🎓 Certificarme en **Network Defense Essentials (NDE)** por EC-Council.
 - 🗣️ Alcanzar un nivel de inglés C1 para entornos técnicos globales.
 - 🏗️ Especializarme en la orquestación avanzada de flujos de agentes autónomos.
 
