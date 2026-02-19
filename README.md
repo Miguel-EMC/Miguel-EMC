@@ -57,8 +57,3 @@ I am a **Software Engineer** focused on Backend architectures and the strategic 
 - 🚀 **Scale:** Deepening knowledge in high-concurrency microservices.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-EMC&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-EMC&layout=compact&theme=tokyonight" alt="Langs" />
-</p>
