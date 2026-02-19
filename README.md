@@ -1,31 +1,26 @@
 <h1 align="center">👋 Hi, I'm Miguel Muzo</h1>
-<h3 align="center">🚀 Software Engineer | Backend & AI Systems Developer 🇪🇨</h3>
+<p align="center">
+  <b>Software Engineer | Backend & AI Systems Developer</b><br>
+  <i>Ecuador 🇪🇨</i>
+</p>
 
 <p align="center">
-  <a href="https://migueldev11.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-migueldev11.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-miguel-muzo-6379b2234/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Muzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@migueldev11" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-migueldev11-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.tiktok.com/@migueldev11" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-migueldev11-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
+  <a href="https://migueldev11.com"><b>Website</b></a> • 
+  <a href="https://www.linkedin.com/in/eduardo-miguel-muzo-6379b2234/"><b>LinkedIn</b></a> • 
+  <a href="https://www.youtube.com/@migueldev11"><b>YouTube</b></a> • 
+  <a href="https://www.tiktok.com/@migueldev11"><b>TikTok</b></a>
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-Soy un **Ingeniero de Software** enfocado en arquitecturas Backend y la integración estratégica de **Inteligencia Artificial**. Construyo servicios escalables y conecto la lógica de servidor con ecosistemas móviles y web de alto impacto.
+I am a **Software Engineer** focused on Backend architectures and the strategic integration of **Artificial Intelligence**. I build scalable services and connect server logic with high-impact mobile and web ecosystems.
 
-- 🛠️ **Actualidad:** Lidero el desarrollo de agentes de IA (**Text-to-SQL**) con **LangGraph** y **AWS Bedrock**.
-- 📱 **Mobile & Web:** Arquitecto de apps en **Flutter** y plataformas en **Angular** con integración fluida de APIs.
-- ☁️ **Cloud:** Especialista en backend serverless (**AWS Lambdas**) e infraestructura con **Terraform**.
-- 🛡️ **Seguridad:** En proceso de obtención de la certificación **NDE (EC-Council)**.
+- 🛠️ **Current Role:** Leading the development of AI Agents (**Text-to-SQL**) using **LangGraph** and **AWS Bedrock**.
+- 📱 **Mobile & Web:** Architecting apps in **Flutter** and platforms in **Angular** with seamless API integration.
+- ☁️ **Cloud:** Specialist in serverless backend (**AWS Lambdas**) and Infrastructure as Code with **Terraform**.
+- 🛡️ **Cybersecurity:** Certified in **Network Defense Essentials (NDE)** by EC-Council.
 
 ---
 
@@ -33,33 +28,33 @@ Soy un **Ingeniero de Software** enfocado en arquitecturas Backend y la integrac
 
 #### 🤖 Backend & AI Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-AI-blue?style=flat-square" />
 </p>
 
 #### 🌐 Web & Mobile Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 #### 🧮 Infrastructure & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 📈 Metas 2026
-- 🎓 Certificación **Network Defense Essentials (NDE)**.
-- 🗣️ Dominio de inglés técnico nivel **C1**.
-- 🏗️ Especialización en **Multi-Agent Orchestration** y arquitecturas **RAG** avanzadas.
+### 📈 2026 Roadmap
+- 🗣️ **Language:** Improving technical English from B1/B2 to **C1**.
+- 🏗️ **AI:** Specializing in **Multi-Agent Orchestration** and advanced **RAG** architectures.
+- 🚀 **Scale:** Deepening knowledge in high-concurrency microservices.
 
 ---
 
