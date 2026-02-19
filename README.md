@@ -1,71 +1,47 @@
 <h1 align="center">👋 Hi, I'm Miguel Muzo</h1>
-<h3 align="center">💡 AI Backend Engineer & Intelligent Systems Developer from Ecuador 🇪🇨</h3>
+<h3 align="center">Software Engineer | Backend & AI Systems Developer 🇪🇨</h3>
 
 <p align="center">
-  <a href="mailto:eduardomuzo123456@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://migueldev11.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-migueldev11.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/eduardo-miguel-muzo-6379b2234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Muzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.tiktok.com/@migueldev11" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-migueldev11-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://www.youtube.com/@migueldev11" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-migueldev11-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Sobre mí
 
-I'm a **Backend Engineer** focused on bridging the gap between robust software architecture and Artificial Intelligence. I specialize in building autonomous agents and scalable data pipelines that don't just process information—they *reason* through it.
+[cite_start]Soy un **Ingeniero de Software** enfocado en el desarrollo de arquitecturas Backend y la integración de soluciones de Inteligencia Artificial. [cite: 7] [cite_start]Mi experiencia se centra en conectar la lógica de servidor con aplicaciones escalables, optimizando la interacción entre datos y modelos de lenguaje. [cite: 9]
 
-Currently, I am:
-- 🚀 Building **Sinapsek**, focusing on intelligent system integration.
-- 🛠️ Implementing **Agent Orchestration** and **RAG** architectures.
-- 🛡️ Strengthening my expertise in cybersecurity (currently preparing for **NDE Certification**).
+- [cite_start]🛠️ **Experiencia Actual:** Lidero el desarrollo de agentes de IA (Text-to-SQL) utilizando **LangGraph** y **AWS Bedrock**. 
+- [cite_start]🚀 **Fullstack Capabilities:** Desarrollo aplicaciones móviles con **Flutter** y plataformas web en **Angular**, asegurando una comunicación eficiente con el backend. 
+- [cite_start]🛡️ **En formación:** Preparándome para la certificación **Network Defense Essentials (NDE)** para integrar seguridad en cada desarrollo. [cite: 45]
 
 ---
 
-### ⚙️ Core Tech Stack
+### ⚙️ Stack Tecnológico
 
-#### 🐍 Languages
+#### Backend & IA
+- [cite_start]**Lenguajes:** Python (FastAPI, Django), Node.js (NestJS), TypeScript. [cite: 32]
+- [cite_start]**IA:** Integración de LLMs, Agentes SQL, RAG y LangChain/LangGraph. [cite: 8, 32, 33]
+- [cite_start]**Base de Datos:** PostgreSQL, MySQL, SQL Server y Prisma ORM. [cite: 24, 33, 35]
+
+#### Cloud & Infraestructura
+- [cite_start]**AWS:** Lambdas, S3, CloudWatch. [cite: 18, 34]
+- [cite_start]**DevOps:** Terraform, Docker, CI/CD. [cite: 18, 34]
+
+---
+
+### 📈 Metas 2026
+- [cite_start]🎓 Obtener la certificación **NDE (EC-Council)**. [cite: 45]
+- [cite_start]🗣️ Elevar mi nivel de inglés técnico de B2 a C1. 
+- 🏗️ Profundizar en arquitecturas de microservicios y orquestación avanzada de agentes.
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-EMC&show_icons=true&theme=tokyonight" alt="Miguel's Stats" />
 </p>
-
-#### ⚡ Frameworks (Backend & Frontend)
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/LangChain-AI-blue?style=for-the-badge" alt="LangChain"/>
-</p>
-
-#### 🧮 Databases & Infrastructure
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45"/>
-</p>
-
----
-
-### 🌱 2026 Roadmap & Exploration
-- 🧩 **Advanced Agentic Workflows:** Multi-agent collaboration with LangGraph.
-- 🔒 **Security First:** Getting the Network Defense Essentials (NDE) certification.
-- ☕ **Enterprise Java:** Deepening Spring Boot for high-scale backends.
-- 🗣️ **Global Communication:** Mastering technical English (B2 -> C1 path).
-
----
